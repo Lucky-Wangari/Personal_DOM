@@ -1,0 +1,25 @@
+#users{
+    display: flex;
+    flex-wrap: wrap;
+}
+.people{
+    border: solid rgb(231, 85, 109);
+    justify-content: space-evenly;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+  color: rgb(27, 228, 242);
+}
+.add-user{
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+    margin: 2% 4%;
+
+}
